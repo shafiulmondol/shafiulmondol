@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
 <h3 align="center">A Passionate Programming Learner</h3>
 
+<p align="center">Hi there! Welcome to my profile. I'm Shafiul Islam, a dedicated programming enthusiast exploring the endless possibilities of code.</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiul-p&label=Profile%20views&color=0e75b6&style=flat" alt="shafiul-p" /> </p>
