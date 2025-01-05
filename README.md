@@ -1,40 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shafiul Islam's GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1, h3, p {
-      text-align: center;
-    }
-    .center {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    .language-tools {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap;
-      padding: 20px;
-    }
-    .language-tools img {
-      transition: transform 0.3s;
-    }
-    .language-tools img:hover {
-      transform: scale(1.2);
-    }
-  </style>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
-<h3 align="center" id="shafiul-status">A Passionate Programming Learner</h3>
+<h3 align="center">A Passionate Programming Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
@@ -62,26 +27,20 @@
 ---
 
 <h3 align="center">📚 Languages and Tools:</h3>
-<div class="language-tools">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  </a>
-</div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a> 
+</p>
 
 ---
 
@@ -103,19 +62,14 @@
   />
   
   <!-- Most Used Languages -->
-  <div id="most-used-languages">
-    <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&theme=transparent&langs_count=8" 
-         alt="Most Used Languages" 
-         width="45%" 
-    />
-  </div>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&theme=transparent&langs_count=8" 
+       alt="Most Used Languages" 
+       width="45%" 
+  />
 </div>
 
 ---
 
-<h3 align="center" id="status">Thanks for visiting my profile! 🙏</h3>
+<h3 align="center">Thanks for visiting my profile! 🙏</h3>
 <p align="center">Feel free to explore my repositories and connect with me anytime!</p>
-
-</body>
-</html>
