@@ -51,6 +51,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
 ---
@@ -86,7 +89,8 @@
 ### 🎯 **Recent Projects & Contributions**
 
 - **Project 1:** [Bank Management System](https://github.com/shafiulmondol/Bank-management-system)
-- **Project 2:** [Python Repository](https://github.com/shafiulmondol/your-python-repo)
+- **Project 2:** [Machine Learning Repository](https://github.com/shafiulmondol/machine-learning-projects)
+- **Project 3:** [Python Repository](https://github.com/shafiulmondol/python-repo)
 
 ---
 
