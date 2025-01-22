@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently learning **Machine Learning** and **Competitive Programming**.
+- 🧧 I’m currently learning **Machine Learning** and **Competitive Programming**.
 - 🌱 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.
-- 📫 Reach me at: **mdshafiulmondol02@gmail.com**
+- 👯️ Reach me at: **mdshafiulmondol02@gmail.com**
 - ✨ Fun fact: **I am funny 😆**
 
 ---
@@ -33,7 +33,7 @@
   <a href="https://www.hackerrank.com/profile/mdshafiulmondol1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-<a href="https://judge.beecrowd.com/en/profile/908487" target="blank">
+  <a href="https://judge.beecrowd.com/en/profile/908487" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Beecrowd" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/ShafiulM" target="blank">
@@ -46,55 +46,44 @@
 ### 🛠️ **Languages & Tools**
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
+
+---
+
+### 📊 **Most Used Languages**
+
+<div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; background-color: #f4f4f4;">
+ 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&theme=transparent&hide_border=true" alt="Top Languages"/>
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" alt="Most Used Languages"/>
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark" alt="Repos Per Language"/>
+  </p>
+</div>
 
 ---
 
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" 
-       width="45%" 
-  />
-  
-  <!-- Streak Stats -->
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=shafiulmondol&theme=transparent&hide_border=true" 
-       alt="GitHub Streaks" 
-       width="45%" 
-  />
-  
-  <!-- Most Used Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&theme=transparent&langs_count=8" 
-       alt="Most Used Languages" 
-       width="45%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiulmondol&theme=transparent&hide_border=true" alt="GitHub Streaks" width="45%"/>
 </div>
 
 ---
 
 ### 🎯 **Recent Projects & Contributions**
 
-- **Project 1:** [Bank Management System ]([Link to Project](https://github.com/shafiulmondol/Bank-management-system))
+- **Project 1:** [Bank Management System](https://github.com/shafiulmondol/Bank-management-system)
 
 ---
 
