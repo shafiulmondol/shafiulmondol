@@ -16,7 +16,7 @@
 ### 🚀 **About Me**
 - 🧧 I’m currently learning **Machine Learning** and **Competitive Programming**.
 - 🌱 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.
-- 👯️ Reach me at: **mdshafiulmondol02@gmail.com**
+- 👯 Reach me at: **mdshafiulmondol02@gmail.com**
 - ✨ Fun fact: **I am funny 😆**
 
 ---
@@ -58,14 +58,16 @@
 ### 📊 **Most Used Languages**
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; background-color: #f4f4f4;">
- 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&theme=transparent&hide_border=true" alt="Top Languages"/>
+    <!-- Top Languages by Commits -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=transparent" alt="Top Languages by Commit"/>
   </p>
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" alt="Most Used Languages"/>
+    <!-- Most Commit Language Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" alt="Most Commit Language"/>
   </p>
   <p>
+    <!-- Repos Per Language Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark" alt="Repos Per Language"/>
   </p>
 </div>
@@ -84,6 +86,7 @@
 ### 🎯 **Recent Projects & Contributions**
 
 - **Project 1:** [Bank Management System](https://github.com/shafiulmondol/Bank-management-system)
+- **Project 2:** [Python Repository](https://github.com/shafiulmondol/your-python-repo)
 
 ---
 
