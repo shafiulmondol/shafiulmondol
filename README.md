@@ -18,10 +18,12 @@
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently learning **Machine Learning** and **Competitive Programming**.  
+- 🔯 I’m currently learning **Machine Learning** and **Competitive Programming**.  
 - 🌱 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
 - 👨‍💻 I love working on **AI, ML, and problem-solving** challenges.  
-- 📫 Reach me at **mdshafiulmondol02@gmail.com**  
+- 👨‍💻 Open to **collaborations** on exciting projects.  
+- 👨‍💻 I actively participate in **competitive programming**.  
+- 📧 Reach me at **mdshafiulmondol02@gmail.com**  
 - ⚡ Fun fact: **I am funny 😆**  
 
 ---
@@ -38,11 +40,9 @@
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; background-color: #f4f4f4;">
   <p>
-    <!-- Top Languages by Commits -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=transparent" alt="Top Languages by Commit"/>
   </p>
 </div>
-
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 Development Activity  
+## 📊 Development Activity  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiulmondol&theme=github_dark&utcOffset=6" alt="Productive Time"/>
@@ -75,12 +75,12 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
 </p>
 
 ---
 
-## 📂 Projects  
+## 🐂 Featured Projects  
 
 - 🔹 **[Bank Management System](https://github.com/shafiulmondol/Bank-management-system)**  
 - 🔹 **[Machine Learning Repository](https://github.com/shafiulmondol/machine-learning-projects)**  
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔗 Connect with Me  
+## 🐆 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/md-shafiul-islam" target="_blank">
@@ -99,15 +99,6 @@
   </a>
   <a href="mailto:mdshafiulmondol02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/profile/mdshafiulmondol1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://judge.beecrowd.com/en/profile/908487" target="_blank">
-    <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
-  </a>
-  <a href="https://codeforces.com/profile/ShafiulM" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
 </p>
 
@@ -121,4 +112,4 @@
 
 ---
 
-### 🔥 Designed with ❤️ by [Shafiul Islam](https://github.com/shafiulmondol)  
+### 🔥 Designed with ❤️ by [Shafiul Islam](https://github.com/shafiulmondol)
