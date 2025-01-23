@@ -75,7 +75,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/shafiulmondol/shafiulmondol/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
