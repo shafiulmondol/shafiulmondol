@@ -1,10 +1,20 @@
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shafiul Islam</p>
+<h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
+<h3 align="center">A Passionate Programming Learner & Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shafiul+Islam!;A+Passionate+Programming+Learner!;Problem+Solver+%7C+AI+Enthusiast;Let's+Code+Together!;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
 
----
+<p align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
+<!-- Visitor Count Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Profile%20views&color=0e75b6&style=flat" alt="shafiulmondol" />
+</p>
+
+...
 
 ## 🚀 About Me  
 
