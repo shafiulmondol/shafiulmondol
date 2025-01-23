@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
-<h3 align="center">A Passionate Programming Learner & Problem Solver</h3>
+<h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam</h1>
+<h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
 
 <!-- Visitor Count Badge -->
-<p align="right" style="font-size: 18px;">
-  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=0e75b6&style=flat" alt="shafiulmondol" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -18,20 +18,17 @@
   <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-
-...
+---
 
 # 🚀 About Me  
 
-- 🔭 I’m currently learning **Machine Learning** and **Competitive Programming**.  
-- 🌱 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
+- 🔧 I’m currently learning **Machine Learning** and **Competitive Programming**.  
+- 🌟 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
 - 👨‍💻 I love working on **AI, ML, and problem-solving** challenges.  
-- 📫 Reach me at **mdshafiulmondol02@gmail.com**  
+- 💎 Reach me at **mdshafiulmondol02@gmail.com**  
 - ⚡ Fun fact: **I am funny 😆**  
 
 ---
-
-
 
 ## 🛠️ Tech Stack  
 
@@ -41,21 +38,19 @@
 
 ---
 
-### 📊 **Most Used Languages**
+## 📊 Stats
 
-<div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; background-color: #f4f4f4;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=transparent" alt="Top Languages by Commit"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiulmondol&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 Language & Repo Insights  
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages by Commit"/>
 </p>
 
 ---
@@ -72,12 +67,12 @@
 ## 🔥 GitHub Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐂 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
