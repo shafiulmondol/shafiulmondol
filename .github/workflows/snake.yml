@@ -1,1 +1,20 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: github-contribution-grid-snake.svg
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: github-contribution-grid-snake.svg
 
