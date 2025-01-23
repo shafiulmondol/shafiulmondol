@@ -94,19 +94,26 @@
 
  
  
+
+
 ## 📊 Development Activity  
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
 </p>
 
+
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=shafiulmondol&theme=github_dark" alt="Contribution Summary"/>
+  
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shafiulmondol&theme=github_dark" alt="GitHub Stats Summary"/> 
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiulmondol&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+  <!-- NEW GRAPH ADDED -->
+  
 </p>
 
-
 ---
+
+
 
 ## 🔥 GitHub Contributions  
 
