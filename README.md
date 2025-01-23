@@ -19,16 +19,20 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,tensorflow,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,git" />
 </p>
 
 ---
 
-## 📊 Most Used Languages  
+### 📊 **Most Used Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=transparent&hide_border=true&card_width=450" alt="Top Languages" />
-</p>
+<div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; background-color: #f4f4f4;">
+  <p>
+    <!-- Top Languages by Commits -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=transparent" alt="Top Languages by Commit"/>
+  </p>
+</div>
+
 
 ---
 
