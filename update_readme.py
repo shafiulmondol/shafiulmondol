@@ -1,40 +1,35 @@
-import requests
 import os
 
-GITHUB_USERNAME = "shafiulmondol"
-README_FILE = "README.md"
+def detect_languages():
+    languages = set()
+    for root, _, files in os.walk('.'):
+        for file in files:
+            if file.endswith('.py'):
+                languages.add('Python')
+            elif file.endswith('.js'):
+                languages.add('JavaScript')
+            # Add more file extensions and corresponding languages as needed
+    return languages
 
-def get_top_languages():
-    url = f"https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&layout=compact&langs_count=8&theme=transparent"
-    return f'![Top Languages]({url})'
+def update_readme(languages):
+    readme_path = 'README.md'
+    with open(readme_path, 'r') as file:
+        lines = file.readlines()
 
-def update_readme():
-    if not os.path.exists(README_FILE):
-        print("README.md file not found!")
-        return
+    with open(readme_path, 'w') as file:
+        in_languages_section = False
+        for line in lines:
+            if line.startswith('## Languages Used'):
+                in_languages_section = True
+                file.write('## Languages Used\n')
+                for language in languages:
+                    file.write(f'- {language}\n')
+            elif in_languages_section and line.startswith('## '):
+                in_languages_section = False
+                file.write(line)
+            elif not in_languages_section:
+                file.write(line)
 
-    with open(README_FILE, "r", encoding="utf-8") as file:
-        content = file.readlines()
-
-    # Find where to update the README
-    start_index = -1
-    end_index = -1
-    for i, line in enumerate(content):
-        if "<!-- TOP_LANGUAGES_START -->" in line:
-            start_index = i
-        if "<!-- TOP_LANGUAGES_END -->" in line:
-            end_index = i
-
-    if start_index != -1 and end_index != -1:
-        content[start_index + 1 : end_index] = [get_top_languages() + "\n"]
-
-        with open(README_FILE, "w", encoding="utf-8") as file:
-            file.writelines(content)
-
-        print("README updated successfully!")
-    else:
-        print("TOP_LANGUAGES section not found in README.")
-
-if __name__ == "__main__":
-    update_readme()
-
+if __name__ == '__main__':
+    languages = detect_languages()
+    update_readme(languages)
