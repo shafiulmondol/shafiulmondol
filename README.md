@@ -58,7 +58,12 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,git" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
 ---
@@ -75,23 +80,24 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages by Commit"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages by Commit"/>
 </p>
-
-
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark&width=400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark&width=400" />
 </p>
-
 
 
 ---
+
+
+
 ## 📊 Development Activity  
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiulmondol&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
+  <img width="48%" height="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiulmondol&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+  <img width="48%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
 </p>
 
 ---
@@ -102,23 +108,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
----
-
-
-## 🔥 GitHub Contributions  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
+
 ---
 
-## 🐂 Contribution Snake  
+
+
+
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
 </p>
-
 ---
 
 ## 🐂 Featured Projects  
