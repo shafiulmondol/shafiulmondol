@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
 <h3 align="center">A Passionate Programming Learner & Problem Solver</h3>
 
+<!-- Visitor Count Badge -->
+<p align="right" style="font-size: 18px;">
+  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=0e75b6&style=flat" alt="shafiulmondol" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Wave Animation">
 </p>
 
-<!-- Visitor Count Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Profile%20views&color=0e75b6&style=flat" alt="shafiulmondol" />
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
 
 ...
 
-## 🚀 About Me  
+# 🚀 About Me  
 
-- 🔯 I’m currently learning **Machine Learning** and **Competitive Programming**.  
+- 🔭 I’m currently learning **Machine Learning** and **Competitive Programming**.  
 - 🌱 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
 - 👨‍💻 I love working on **AI, ML, and problem-solving** challenges.  
-- 👨‍💻 Open to **collaborations** on exciting projects.  
-- 👨‍💻 I actively participate in **competitive programming**.  
-- 📧 Reach me at **mdshafiulmondol02@gmail.com**  
+- 📫 Reach me at **mdshafiulmondol02@gmail.com**  
 - ⚡ Fun fact: **I am funny 😆**  
 
 ---
+
+
 
 ## 🛠️ Tech Stack  
 
@@ -88,7 +93,7 @@
 
 ---
 
-## 🐆 Connect with Me  
+## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/md-shafiul-islam" target="_blank">
@@ -99,6 +104,15 @@
   </a>
   <a href="mailto:mdshafiulmondol02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mdshafiulmondol1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/908487" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/ShafiulM" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
   </a>
 </p>
 
