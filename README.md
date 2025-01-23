@@ -29,6 +29,31 @@
 - ⚡ Fun fact: **I am funny 😆**  
 
 ---
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/md-shafiul-islam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://fb.com/শাফিউল-মন্ডল" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:mdshafiulmondol02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mdshafiulmondol1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/908487" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/ShafiulM" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+</p>
+
+---
+
 
 ## 🛠️ Tech Stack  
 
@@ -53,16 +78,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulmondol&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages by Commit"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiulmondol&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiulmondol&theme=github_dark" />
+</p>
+
+
+
 ---
-
 ## 📊 Development Activity  
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiulmondol&theme=github_dark&utcOffset=6" alt="Productive Time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
 </p>
 
 ---
+
+## 🔥 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 
 ## 🔥 GitHub Contributions  
 
@@ -88,30 +129,6 @@
 
 ---
 
-## 🔗 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/md-shafiul-islam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://fb.com/শাফিউল-মন্ডল" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="mailto:mdshafiulmondol02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/profile/mdshafiulmondol1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://judge.beecrowd.com/en/profile/908487" target="_blank">
-    <img src="https://img.shields.io/badge/Beecrowd-222222?style=for-the-badge&logo=codeforces&logoColor=white">
-  </a>
-  <a href="https://codeforces.com/profile/ShafiulM" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-  </a>
-</p>
-
----
 
 ## 🎯 Let's Collaborate  
 
