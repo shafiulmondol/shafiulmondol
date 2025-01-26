@@ -97,6 +97,8 @@
 
 
 ## 📊 Development Activity  
+### 🚀 Progress
+- **Project Completion:** ![Progress](https://progress-bar.dev/50/)  
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
