@@ -1,29 +1,27 @@
-name: Update README
+name: Update README Progress
 
 on:
-  push:
-    branches:
-      - main # or the branch you want to monitor
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-progress:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Update README
+      - name: Calculate Progress
         run: |
-          echo "Updating README file"
-          # Insert your script or command to update the README file here
-          # For example, you can use echo to append the current date and time
-          echo "Last updated: $(date)" >> README.md
+          PROGRESS=$(sh your_script.sh)  # Replace with actual script
+          sed -i "s|![Progress](https://progress-bar.dev/[0-9]*)|![Progress](https://progress-bar.dev/$PROGRESS/)|g" README.md
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README file automatically"
+          git commit -m "Updated progress bar"
           git push
