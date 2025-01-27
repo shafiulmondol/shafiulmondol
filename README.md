@@ -1,10 +1,15 @@
-<h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam</h1>
-<h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
+<h1 align="right">
+  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" width="150" height="30"/>
+</h1>
+
+
+<h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
+
+</h1>
+ <h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
 
 <!-- Visitor Count Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
@@ -97,8 +102,6 @@
 
 
 ## 📊 Development Activity  
-### 🚀 Progress
-- **Project Completion:** ![Progress](https://progress-bar.dev/50/)  
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiulmondol&theme=github_dark" alt="Profile Details"/>
