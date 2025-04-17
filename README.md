@@ -5,20 +5,18 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 </h1>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
  <h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Wave Animation">
-</p>
 
 <p align="center">
   <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
