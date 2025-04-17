@@ -76,15 +76,19 @@
 ## 📊 GitHub Stats & Contributions  
 
 <!-- GitHub Stats + GitHub Streak side-by-side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shafiulmondol&theme=tokyonight" width="49%" alt="GitHub Streak" />
-</p>
+<table>
+   <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=shafiulmondol&limit=5&theme=radical&combine_all_yearly_contributions=true" width="70%" alt="Top Contributed Repositories" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=shafiulmondol&theme=tokyonight" alt="GitHub Streak" /></td>
+  </tr>
+ 
+</table>
 
-<!-- Top Contributed Repositories with matching width (98%) and decreased height -->
-<p align="center">
-  <img  width="95%" src="https://github-contributor-stats.vercel.app/api?username=shafiulmondol&limit=5&theme=radical&combine_all_yearly_contributions=true" style="height: 200px; object-fit: cover;" alt="Top Contributed Repositories" />
-</p>
 
 
 
