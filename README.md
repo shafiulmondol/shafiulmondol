@@ -2,10 +2,16 @@
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" width="150" height="30"/>
 </h1>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Crafting%20Digital%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 <h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
-
 </h1>
 
  <h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
@@ -15,7 +21,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 
 
 <p align="center">
@@ -216,11 +225,10 @@
 
 💡 Feel free to **explore my repositories**, **contribute to projects**, or **reach out to me** for collaboration! Let’s build amazing things together! 🚀  
 
-<p align="center"><b>Thanks for visiting my profile! 😊</b></p>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### 🔥 Designed with ❤️ by [Shafiul Islam](https://github.com/shafiulmondol)
 Last updated: Sun Jan 26 03:40:50 UTC 2025
 Last updated: Sun Jan 26 03:56:37 UTC 2025
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
