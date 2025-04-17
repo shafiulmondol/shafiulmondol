@@ -7,9 +7,7 @@
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Crafting%20Digital%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
 </h1>
