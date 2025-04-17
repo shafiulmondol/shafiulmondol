@@ -73,14 +73,28 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats & Contributions  
 
+<!-- GitHub Stats + GitHub Streak side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiulmondol&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafiulmondol&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shafiulmondol&theme=tokyonight" width="49%" alt="GitHub Streak" />
 </p>
 
----
+<!-- Top Contributed Repositories with matching width (98%) and decreased height -->
+<p align="center">
+  <img  width="95%" src="https://github-contributor-stats.vercel.app/api?username=shafiulmondol&limit=5&theme=radical&combine_all_yearly_contributions=true" style="height: 200px; object-fit: cover;" alt="Top Contributed Repositories" />
+</p>
+
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ ---
 
 ## 📊 Most Used Languages
 
@@ -98,7 +112,9 @@
 
 
  
- 
+
+
+
 
 
 ## 📊 Development Activity  
@@ -117,7 +133,15 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shafiulmondol&theme=blue-green&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+
+
+---
 
 
 ## 🔥 GitHub Contributions  
