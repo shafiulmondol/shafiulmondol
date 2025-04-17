@@ -149,13 +149,13 @@
 
 
 ## 🔥 GitHub Contributions  
-## 🗓️ Contributions in the Last Year  
+📅 Contributions in the Last Year  
 
-<!-- Contributions in the Last Year Table -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/last-year-contributions?username=shafiulmondol&theme=github_dark&width=800" alt="Contributions in Last Year" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/last-year-contributions?username=shafiulmondol&theme=github_dark&width=600" alt="Contributions in Last Year" />
 </p>
 
+---
 
 
 <p align="center">
