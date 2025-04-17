@@ -33,9 +33,14 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/banargit.png" alt="Banner" height="350"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" height="350"/>
+  <span>
+    <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/banargit.png" alt="Banner" height="200" style="display:inline-block;"/>
+  </span>
+  <span>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" height="200" style="display:inline-block;"/>
+  </span>
 </p>
+
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
