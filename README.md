@@ -17,16 +17,7 @@
  <h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--
-**shafiulmondol/shafiulmondol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/banner.png" alt="Banner" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -42,6 +33,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+
+  
   <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
