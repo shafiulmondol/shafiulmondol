@@ -31,14 +31,10 @@
 </div>
 
 
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/2f4b28df-f07d-4155-b892-709bf3a5367d/436340980_640407548246496_2213521526963823640_n.jpg" alt="Banner" />
-</div>
-
-  
-  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/banargit.png" alt="Banner" height="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" height="350"/>
 </p>
 
 
