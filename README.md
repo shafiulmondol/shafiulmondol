@@ -198,11 +198,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
