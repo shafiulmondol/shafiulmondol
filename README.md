@@ -1,30 +1,19 @@
 
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" width="150" height="30"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </h1>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Crafting%20Digital%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
-</div>
+
 
 <h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
 </h1>
 
- <h3 align="center" style="color:#FFA500;">A Passionate Programming Learner & Problem Solver</h3>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+ <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Code%20|%20Create%20|%20Innovate&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -45,7 +34,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 - 🔧 I’m currently learning **Machine Learning** and **Competitive Programming**.  
 - 🌟 I'm passionate about **Coding**, **Problem Solving**, and exploring **New Technologies**.  
@@ -53,12 +42,12 @@
 - 💎 Reach me at **mdshafiulmondol02@gmail.com**  
 - ⚡ Fun fact: **I am funny 😆**  
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h2 align="left">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30">
   <b>Connect with Me</b>
 </h2>
-<img align="left" src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
+
 
 <br>
 
@@ -86,7 +75,7 @@
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</br>
 
 
 <p align="center">
@@ -127,14 +116,14 @@
 
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30">
   &nbsp; <b>Most Used Languages</b>
 </h2>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 
 <p align="center">
@@ -147,7 +136,7 @@
 </p>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
  
 
@@ -194,7 +183,7 @@
 </h2>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiulmondol&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
@@ -210,9 +199,7 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30">
   &nbsp; <b>Contribution Snake</b>
 </h2>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
@@ -226,21 +213,16 @@
   &nbsp; <b>Featured Projects</b>
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
 
 - 🔹 **[Bank Management System](https://github.com/shafiulmondol/Bank-management-system)**  
 - 🔹 **[Machine Learning Repository](https://github.com/shafiulmondol/machine-learning-projects)**  
 - 🔹 **[Python Repository](https://github.com/shafiulmondol/python-repo)**  
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
 
 ## 🎯 Let's Collaborate  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 💡 Feel free to **explore my repositories**, **contribute to projects**, or **reach out to me** for collaboration! Let’s build amazing things together! 🚀  
 
