@@ -2,18 +2,29 @@
 <h1 align="right">
   <img src="https://komarev.com/ghpvc/?username=shafiulmondol&label=Visitors&color=36BCF7&style=flat" alt="shafiulmondol" width="150" height="30"/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</h1>
 
-
-
-<h1 align="center" style="color:#36BCF7;">Hi 👋, I'm Shafiul Islam
-</h1>
-
+</div>
  <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Code%20|%20Create%20|%20Innovate&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/> </div>
 
+
+
+  <h1 align="center" style="background: linear-gradient(to right, #36BCF7, #00FFD1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-top: -30px;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+    Hi 👋, I'm Shafiul Islam
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there,+this+is+Shafiul+Islam.;Welcome+to+my+GitHub!;Let's+Code+Together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!" alt="Typing Animation">
 </p>
+
+  <!-- Animated Typing Subtitle -->
+  <h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Developer;AI%2FML+Enthusiast;Problem+Solver;From+Bangladesh" alt="Typing SVG" />
+  </h3>
+
+  <!-- Decorative Divider -->
+ 
+
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
