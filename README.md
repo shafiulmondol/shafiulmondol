@@ -103,7 +103,28 @@
 
 
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">&nbsp;***Certifications***
-[View Certificate (PDF)](https://github.com/shafiulmondol/shafiulmondol/blob/main/AI_ML%20%20certifickate.pdf)
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Certificate 1 -->
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AL%20ML%20from%20Ostad.png" width="320"/><br><br>
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AI_ML%20%20certifickate.pdf">
+          <img src="https://img.shields.io/badge/View%20Certificate-AI%20%26%20ML-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+        </a>
+      </td>  <!-- Certificate 2 -->
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/Basic%20SQL.png" width="320"/><br><br>
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/sql_basic%20certificate.pdf">
+          <img src="https://img.shields.io/badge/View%20Certificate-Basic%20SQL-green?style=for-the-badge&logo=postgresql"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
