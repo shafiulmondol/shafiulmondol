@@ -105,29 +105,116 @@
 ## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">&nbsp;***Certifications***
 
 <div align="center">
-  <table>
+  <table style="border-spacing: 20px; border-collapse: separate;">
     <tr>
       <!-- Certificate 1 -->
       <td align="center" width="50%">
-        <!-- Preview image -->
-        <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AL%20ML%20from%20Ostad.png" width="320"/><br><br>
-        <!-- Opens PDF in a new tab -->
-        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AI_ML%20%20certifickate.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Certificate-AI%20%26%20ML-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+        <!-- Preview image with colorful border -->
+        <div style="
+          padding: 12px;
+          background: linear-gradient(45deg, #ff0080, #ff8c00, #40e0d0, #8a2be2);
+          border-radius: 15px;
+          box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+          display: inline-block;
+          margin-bottom: 20px;
+          transition: transform 0.3s ease;
+        " 
+        onmouseover="this.style.transform='scale(1.02)'"
+        onmouseout="this.style.transform='scale(1)'">
+          <div style="
+            background: white;
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+          ">
+            <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AL%20ML%20from%20Ostad.png" 
+                 width="320"
+                 style="border-radius: 8px; display: block;"/>
+          </div>
+        </div>
+        <br>
+        <!-- View Certificate Button -->
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AI_ML%20%20certifickate.pdf" 
+           target="_blank"
+           title="View AI & ML Certificate (opens in new tab)"
+           style="text-decoration: none;">
+          <div style="
+            display: inline-block;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-weight: bold;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 16px;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+          "
+          onmouseover="this.style.boxShadow='0 6px 20px rgba(102, 126, 234, 0.6); this.style.transform='translateY(-2px)''"
+          onmouseout="this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.4); this.style.transform='translateY(0)''">
+            📄 View Certificate - AI & ML
+          </div>
         </a>
       </td>  
  <!-- Certificate 2 -->
       <td align="center" width="50%">
-        <!-- Preview image -->
-        <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/Basic%20SQL.png" width="320"/><br><br>
-        <!-- Opens PDF in a new tab -->
-        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/sql_basic%20certificate.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Certificate-Basic%20SQL-green?style=for-the-badge&logo=postgresql"/>
+        <!-- Preview image with colorful border -->
+        <div style="
+          padding: 12px;
+          background: linear-gradient(45deg, #00b09b, #96c93d, #f46b45, #eea849);
+          border-radius: 15px;
+          box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+          display: inline-block;
+          margin-bottom: 20px;
+          transition: transform 0.3s ease;
+        " 
+        onmouseover="this.style.transform='scale(1.02)'"
+        onmouseout="this.style.transform='scale(1)'">
+          <div style="
+            background: white;
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+          ">
+            <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/Basic%20SQL.png" 
+                 width="320"
+                 style="border-radius: 8px; display: block;"/>
+          </div>
+        </div>
+        <br>
+        <!-- View Certificate Button -->
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/sql_basic%20certificate.pdf" 
+           target="_blank"
+           title="View Basic SQL Certificate (opens in new tab)"
+           style="text-decoration: none;">
+          <div style="
+            display: inline-block;
+            background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-weight: bold;
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 16px;
+            box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+          "
+          onmouseover="this.style.boxShadow='0 6px 20px rgba(79, 172, 254, 0.6); this.style.transform='translateY(-2px)''"
+          onmouseout="this.style.boxShadow='0 4px 15px rgba(79, 172, 254, 0.4); this.style.transform='translateY(0)''">
+            📄 View Certificate - Basic SQL
+          </div>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+<!-- Optional: Add some spacing at the bottom -->
+<div style="height: 40px;"></div>
 
 
 
