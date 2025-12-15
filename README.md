@@ -109,14 +109,19 @@
     <tr>
       <!-- Certificate 1 -->
       <td align="center" width="50%">
+        <!-- Preview image -->
         <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AL%20ML%20from%20Ostad.png" width="320"/><br><br>
-        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AI_ML%20%20certifickate.pdf">
+        <!-- Opens PDF in a new tab -->
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/AI_ML%20%20certifickate.pdf" target="_blank">
           <img src="https://img.shields.io/badge/View%20Certificate-AI%20%26%20ML-blue?style=for-the-badge&logo=adobeacrobatreader"/>
         </a>
-      </td>  <!-- Certificate 2 -->
+      </td>  
+ <!-- Certificate 2 -->
       <td align="center" width="50%">
+        <!-- Preview image -->
         <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/Basic%20SQL.png" width="320"/><br><br>
-        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/sql_basic%20certificate.pdf">
+        <!-- Opens PDF in a new tab -->
+        <a href="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/sql_basic%20certificate.pdf" target="_blank">
           <img src="https://img.shields.io/badge/View%20Certificate-Basic%20SQL-green?style=for-the-badge&logo=postgresql"/>
         </a>
       </td>
